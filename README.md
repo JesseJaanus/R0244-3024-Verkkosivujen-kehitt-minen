@@ -1,2 +1,2 @@
-# R0244-3024-Verkkosivujen-kehitt-minen
+# R0244-3024
 Kurssin tehtävät
